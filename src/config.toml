@@ -15,7 +15,7 @@ favicon = "/favicon.ico"
 firstName = "Jason"
 lastName = "Wyckoff"
 phone = "1-555-555-1234"
-profileImage = "img/wy-logo.png"
+profileImage = "img/jason.jpg"
 showEducation = false
 showExperience = false
 
