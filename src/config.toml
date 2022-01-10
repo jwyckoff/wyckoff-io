@@ -1,5 +1,4 @@
 title = "Jason Wyckoff"
-baseURL = "https://white-sand-068247110.azurestaticapps.net/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -7,6 +6,7 @@ PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
 relativeURLs = true
+baseURL = "/"
 
 [params]
 address = "Franklin, TN"
