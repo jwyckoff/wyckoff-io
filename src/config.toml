@@ -16,13 +16,17 @@ firstName = "Jason"
 lastName = "Wyckoff"
 phone = "1-555-555-1234"
 profileImage = "img/wy-logo.png"
-showEducation = true
-showExperience = true
-showOpenSource = true
-showProjects = true
-showPublications = true
+showEducation = false
+showExperience = false
+
+showOpenSource = false
+showProjects = false
+showPublications = false
+showCertifications = false
 showQr = true
-showSkills = true
+showSkills = false
+
+socialTitle = ""
 
 [params.google]
 
