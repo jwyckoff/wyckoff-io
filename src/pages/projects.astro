@@ -1,0 +1,14 @@
+---
+import projects from '../data/projects.json';
+---
+
+<h1>Projects</h1>
+<ul>
+  {
+    projects.map((p) => (
+      <li>
+        <a href={`/projects/${p.id}`}>{p.title}</a>
+      </li>
+    ))
+  }
+</ul>

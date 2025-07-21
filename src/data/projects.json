@@ -1,0 +1,4 @@
+[
+  { "id": "astro-site", "title": "Astro Portfolio", "description": "A fast static site built with Astro." },
+  { "id": "react-app", "title": "React Dashboard", "description": "A dynamic dashboard built with React." }
+]
